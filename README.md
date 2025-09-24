@@ -46,7 +46,7 @@ Supports informed outdoor planning and lifestyle decisions
 
 ## 📷 Dashboard Preview:
 
-###Screenshot 
+### Screenshot 
 
 ![Screenshot](https://github.com/infoabhishek2/PowerBi_Weather-Dashboard/blob/main/Dashboard_Image_Weather_Report.png)
 
