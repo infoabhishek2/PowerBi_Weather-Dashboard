@@ -45,3 +45,10 @@ Raises awareness about air quality and health advisories
 Supports informed outdoor planning and lifestyle decisions
 
 ## 📷 Dashboard Preview:
+
+###Screenshot: 
+
+![Screenshot](https://github.com/infoabhishek2/PowerBi_Weather-Dashboard/blob/main/Dashboard_Image_Weather_Report.png)
+
+## 🏷️ Tags
+#PowerBI #DataVisualization #WeatherDashboard #AQI #DAX #SurajSingh #PortfolioProject
