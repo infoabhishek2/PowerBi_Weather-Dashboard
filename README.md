@@ -10,7 +10,7 @@ Current temperature, weather condition, and city comparison
 
 Visual line chart showing temperature trend for the upcoming week
 
-### 🌇 Sunrise & Sunset Times
+🌇 Sunrise & Sunset Times
 
 💨 Atmospheric Details
 
